@@ -17,3 +17,4 @@ ultralytics
 bcrypt
 passlib[bcrypt]
 python-jose[cryptography]
+tensorflow
