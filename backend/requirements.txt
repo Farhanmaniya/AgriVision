@@ -9,4 +9,4 @@ python-dotenv
 tensorflow
 gunicorn
 pandas
-bcrypt
+passlib[bcrypt]
